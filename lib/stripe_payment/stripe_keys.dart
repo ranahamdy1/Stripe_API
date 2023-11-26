@@ -1,0 +1,5 @@
+abstract class ApiKeys{
+  static const String publishableKey="pk_test_51O825DEFy3dpp9BaS0V0OSNzL71egCoi1JFiZqsDqF91TBwk06iKbLtB5Jpg9cch1idvllqY4cgumRGSMbYxNkmf00r1beXIMh";
+  //static const String publishableKey="pk_test_51OBtZIAwRB02E63ZRoL24mNb9GpFPZpLDKaxNzKf6eFTHEQmxum2RnZNpFT9UJJOuwpbx8113U1NTZBdWS8Kt4zP00YPgGSOFF";
+  static const String secretKey="sk_test_51OBtZIAwRB02E63Z2g5exwkVWWegFZjaKoBE0IzEsOP0E8dGGQ9Oh2YxNplQ7KzXRBsN77rFUj1eIYuEdeofnLur00F4toX9lk";
+}
